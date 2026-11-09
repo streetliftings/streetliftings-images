@@ -2,8 +2,7 @@ SLS Studio - Privacy Policy
 Streetliftings (www.streetliftings.fr)
 
 SLS Studio only connects to the Streetliftings TikTok account, with the permissions user.info.basic
-and video.upload. It stores the TikTok access token locally on the Streetliftings team computer,
-never shares it and never sells or transfers any data.
+and video.upload. The TikTok access token is stored securely, never shared, and no data is ever sold or transferred.
 
 The only content sent to TikTok is the images and captions of Streetliftings posts. Competition
 results come from public FinalRep results. No personal data of other TikTok users is collected.
